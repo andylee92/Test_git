@@ -25,9 +25,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        openFloat = (Button)findViewById(R.id.open_float);
+        openFloat = (Button) findViewById(R.id.open_float);
         openFloat.setOnClickListener(new View.OnClickListener() {
-
 
 
             @Override
@@ -37,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
+    //更改代码，第二次提交准备
 
 
     private void createFloatView() {
