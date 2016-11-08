@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
 
     //更改代码，第二次提交准备。。。。。。。。。。。。。。。。。。
 
+    //ToDo : 学习git使用教程
+
 
     private void createFloatView() {
         //获取LayoutParams对象
