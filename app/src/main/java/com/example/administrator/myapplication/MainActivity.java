@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //更改代码，第二次提交准备。。。。。。。。。。。。。。。。。。
+    //更改代码，第二次提交准备。。。。。。。。。。。。。。。。。。 啊受到罚款
 
     //ToDo : 学习git使用教程
 
